@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import StateListView from '../views/StateListView.vue'
+import StateInfoView from '../views/StateInfoView.vue'
 import BirdListView from '../views/BirdListView.vue'
 import FlowerListView from '../views/FlowerListView.vue'
 
@@ -14,6 +15,10 @@ const routes = [
     path: '/states',
     name: 'states',
     component: StateListView
+  },
+  {
+    path: '/states/:abbr',
+    component: StateInfoView
   },
   {
     path: '/birds',

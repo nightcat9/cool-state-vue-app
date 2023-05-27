@@ -7,7 +7,7 @@
             <th>State Flower</th>
         </tr>
         <tr v-for="state in statesJson">
-            <td>{{ state.name }}</td>
+            <td><router-link :to="'/states/' + state.abbreviation">{{ state.name }}</router-link></td>
             <td>{{ state.capital }}</td>
             <td>{{ state.bird }}</td>
             <td>{{ state.flower }}</td>  
