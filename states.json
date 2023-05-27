@@ -1,202 +1,652 @@
 [
     {
         "name": "Alabama",
-        "abbreviation": "AL"
+        "abbreviation": "AL",
+        "statehood": "December 14, 1819",
+        "capital": "Montgomery",
+        "slogan": "Yellowhammer State",
+        "bird": "Yellowhammer",
+        "flower": "Camellia",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Alaska",
-        "abbreviation": "AK"
+        "abbreviation": "AK",
+        "statehood": "January 3, 1959",
+        "capital": "Juneau",
+        "slogan": "The Last Frontier",
+        "bird": "Willow Ptarmigan",
+        "flower": "Alpine Forget Me Not",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Arizona",
-        "abbreviation": "AZ"
+        "abbreviation": "AZ",
+        "statehood": "February 14, 1912",
+        "capital": "Phoenix",
+        "slogan": "The Grand Canyon State",
+        "bird": "Cactus Wren",
+        "flower": "Saguaro Cactus Blossom",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Arkansas",
-        "abbreviation": "AR"
+        "abbreviation": "AR",
+        "statehood": "June 15, 1836",
+        "capital": "Little Rock",
+        "slogan": "The Natural State",
+        "bird": "Northern Mockingbird",
+        "flower": "Apple Blossom",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "California",
-        "abbreviation": "CA"
+        "abbreviation": "CA",
+        "statehood": "September 9, 1850",
+        "capital": "Sacramento",
+        "slogan": "The Golden State",
+        "bird": "California Valley Quail",
+        "flower": "California Poppy",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Colorado",
-        "abbreviation": "CO"
+        "abbreviation": "CO",
+        "statehood": "August 1, 1876",
+        "capital": "Denver",
+        "slogan": "The Centennial State",
+        "bird": "Lark Bunting",
+        "flower": "Rocky Mountain Columbine",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Connecticut",
-        "abbreviation": "CT"
+        "abbreviation": "CT",
+        "statehood": "January 9, 1788",
+        "capital": "Hartford",
+        "slogan": "The Constitution State",
+        "bird": "American Robin",
+        "flower": "Mountain Laurel",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Delaware",
-        "abbreviation": "DE"
+        "abbreviation": "DE",
+        "statehood": "December 7, 1787",
+        "capital": "Dover",
+        "slogan": "The First State",
+        "bird": "Blue Hen Chicken",
+        "flower": "Peach Blossom",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Florida",
-        "abbreviation": "FL"
+        "abbreviation": "FL",
+        "statehood": "March 3, 1845",
+        "capital": "Tallahassee",
+        "slogan": "The Sunshine State",
+        "bird": "Mockingbird",
+        "flower": "Orange Blossom",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Georgia",
-        "abbreviation": "GA"
+        "abbreviation": "GA",
+        "statehood": "January 2, 1788",
+        "capital": "Atlanta",
+        "slogan": "The Peach State",
+        "bird": "Brown Thrasher",
+        "flower": "Cherokee Rose",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Hawaii",
-        "abbreviation": "HI"
+        "abbreviation": "HI",
+        "statehood": "August 21, 1959",
+        "capital": "Honolulu",
+        "slogan": "The Aloha State",
+        "bird": "Nene",
+        "flower": "Pua Aloalo",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Idaho",
-        "abbreviation": "ID"
+        "abbreviation": "ID",
+        "statehood": "July 3, 1890",
+        "capital": "Boise",
+        "slogan": "The Gem State",
+        "bird": "Mountain Bluebird",
+        "flower": "Syringa",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Illinois",
-        "abbreviation": "IL"
+        "abbreviation": "IL",
+        "statehood": "December 3, 1818",
+        "capital": "Springfield",
+        "slogan": "The Prairie State",
+        "bird": "Cardinal",
+        "flower": "Violet",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Indiana",
-        "abbreviation": "IN"
+        "abbreviation": "IN",
+        "statehood": "December 11, 1816",
+        "capital": "Indianapolis",
+        "slogan": "The Hoosier State",
+        "bird": "Cardinal",
+        "flower": "Peony",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Iowa",
-        "abbreviation": "IA"
+        "abbreviation": "IA",
+        "statehood": "December 28, 1846",
+        "capital": "Des Moines",
+        "slogan": "The Hawkeye State",
+        "bird": "Eastern Goldfinch",
+        "flower": "Wild Prairie Rose",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Kansas",
-        "abbreviation": "KS"
+        "abbreviation": "KS",
+        "statehood": "January 29, 1861",
+        "capital": "Topeka",
+        "slogan": "The Sunflower State",
+        "bird": "Western Meadowlark",
+        "flower": "Wild Native Sunflower",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Kentucky",
-        "abbreviation": "KY"
+        "abbreviation": "KY",
+        "statehood": "June 1, 1792",
+        "capital": "Frankfort",
+        "slogan": "The Bluegrass State",
+        "bird": "Cardinal",
+        "flower": "Goldenrod",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Louisiana",
-        "abbreviation": "LA"
+        "abbreviation": "LA",
+        "statehood": "April 30, 1812",
+        "capital": "Baton Rouge",
+        "slogan": "The Pelican State",
+        "bird": "Eastern Brown Pelican",
+        "flower": "Magnolia",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Maine",
-        "abbreviation": "ME"
+        "abbreviation": "ME",
+        "statehood": "March 15, 1820",
+        "capital": "Augusta",
+        "slogan": "The Pine Tree State",
+        "bird": "Chickadee",
+        "flower": "White pine cone and tassel",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Maryland",
-        "abbreviation": "MD"
+        "abbreviation": "MD",
+        "statehood": "April 28, 1788",
+        "capital": "Annapolis",
+        "slogan": "The Old Line State",
+        "bird": "Baltimore Oriole",
+        "flower": "Black-eyed Susan",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Massachusetts",
-        "abbreviation": "MA"
+        "abbreviation": "MA",
+        "statehood": "February 6, 1788",
+        "capital": "Boston",
+        "slogan": "The Bay State",
+        "bird": "Chickadee",
+        "flower": "Trailing-Arbutus (Mayflower)",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Michigan",
-        "abbreviation": "MI"
+        "abbreviation": "MI",
+        "statehood": "January 26, 1837",
+        "capital": "Lansing",
+        "slogan": "The Great Lakes State",
+        "bird": "Robin",
+        "flower": "Apple Blossom",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Minnesota",
-        "abbreviation": "MN"
+        "abbreviation": "MN",
+        "statehood": "May 11, 1858",
+        "capital": "Saint Paul",
+        "slogan": "The North Star State",
+        "bird": "Common Loon",
+        "flower": "Pink and white lady slipper",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Mississippi",
-        "abbreviation": "MS"
+        "abbreviation": "MS",
+        "statehood": "December 10, 1817",
+        "capital": "Jackson",
+        "slogan": "The Magnolia State",
+        "bird": "Mockingbird",
+        "flower": "Magnolia",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Missouri",
-        "abbreviation": "MO"
+        "abbreviation": "MO",
+        "statehood": "August 10, 1821",
+        "capital": "Jefferson City",
+        "slogan": "The Show Me State",
+        "bird": "Bluebird",
+        "flower": "White Hawthorn Blossom",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Montana",
-        "abbreviation": "MT"
+        "abbreviation": "MT",
+        "statehood": "November 8, 1889",
+        "capital": "Helena",
+        "slogan": "The Treasure State",
+        "bird": "Western Meadowlark",
+        "flower": "Bitterroot",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Nebraska",
-        "abbreviation": "NE"
+        "abbreviation": "NE",
+        "statehood": "March 1, 1867",
+        "capital": "Lincoln",
+        "slogan": "The Cornhusker State",
+        "bird": "Western Meadowlark",
+        "flower": "Goldenrod",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Nevada",
-        "abbreviation": "NV"
+        "abbreviation": "NV",
+        "statehood": "October 31, 1864",
+        "capital": "Carson City",
+        "slogan": "The Silver State",
+        "bird": "Mountain Bluebird",
+        "flower": "Sagebrush",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "New Hampshire",
-        "abbreviation": "NH"
+        "abbreviation": "NH",
+        "statehood": "June 21, 1788",
+        "capital": "Concord",
+        "slogan": "The Granite State",
+        "bird": "Purple Finch",
+        "flower": "Purple lilac",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "New Jersey",
-        "abbreviation": "NJ"
+        "abbreviation": "NJ",
+        "statehood": "December 18, 1787",
+        "capital": "Trenton",
+        "slogan": "The Garden State",
+        "bird": "Eastern Goldfinch",
+        "flower": "Violet",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "New Mexico",
-        "abbreviation": "NM"
+        "abbreviation": "NM",
+        "statehood": "January 6, 1912",
+        "capital": "Santa Fe",
+        "slogan": "The Land of Enchantment",
+        "bird": "Roadrunner",
+        "flower": "Yucca flower",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "New York",
-        "abbreviation": "NY"
+        "abbreviation": "NY",
+        "statehood": "July 26, 1788",
+        "capital": "Albany",
+        "slogan": "The Empire State",
+        "bird": "Eastern Bluebird",
+        "flower": "Rose",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "North Carolina",
-        "abbreviation": "NC"
+        "abbreviation": "NC",
+        "statehood": "November 21, 1789",
+        "capital": "Raleigh",
+        "slogan": "The Tar Heel State",
+        "bird": "Cardinal",
+        "flower": "American Dogwood",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "North Dakota",
-        "abbreviation": "ND"
+        "abbreviation": "ND",
+        "statehood": "November 2, 1889",
+        "capital": "Bismarck",
+        "slogan": "The Peace Garden State",
+        "bird": "Western Meadowlark",
+        "flower": "Wild Prairie Rose",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Ohio",
-        "abbreviation": "OH"
+        "abbreviation": "OH",
+        "statehood": "March 1, 1803",
+        "capital": "Columbus",
+        "slogan": "The Buckeye State",
+        "bird": "Cardinal",
+        "flower": "Scarlet Carnation",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Oklahoma",
-        "abbreviation": "OK"
+        "abbreviation": "OK",
+        "statehood": "November 16, 1907",
+        "capital": "Oklahoma City",
+        "slogan": "The Sooner State",
+        "bird": "Scissor-tailed Flycatcher",
+        "flower": "Oklahoma Rose",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Oregon",
-        "abbreviation": "OR"
+        "abbreviation": "OR",
+        "statehood": "February 14, 1859",
+        "capital": "Salem",
+        "slogan": "The Beaver State",
+        "bird": "Western Meadowlark",
+        "flower": "Oregon Grape",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Pennsylvania",
-        "abbreviation": "PA"
+        "abbreviation": "PA",
+        "statehood": "December 12, 1787",
+        "capital": "Harrisburg",
+        "slogan": "The Keystone State",
+        "bird": "Ruffed Grouse",
+        "flower": "Mountain Laurel",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Rhode Island",
-        "abbreviation": "RI"
+        "abbreviation": "RI",
+        "statehood": "May 29, 1790",
+        "capital": "Providence",
+        "slogan": "The Ocean State",
+        "bird": "Rhode Island Red Hen",
+        "flower": "Common Blue Violet",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "South Carolina",
-        "abbreviation": "SC"
+        "abbreviation": "SC",
+        "statehood": "May 23, 1788",
+        "capital": "Columbia",
+        "slogan": "The Palmetto State",
+        "bird": "Carolina Wren",
+        "flower": "Yellow Jessamine",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "South Dakota",
-        "abbreviation": "SD"
+        "abbreviation": "SD",
+        "statehood": "November 2, 1889",
+        "capital": "Pierre",
+        "slogan": "Mount Rushmore State",
+        "bird": "Ring-necked Pheasant",
+        "flower": "Americana Pasque",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Tennessee",
-        "abbreviation": "TN"
+        "abbreviation": "TN",
+        "statehood": "June 1, 1796",
+        "capital": "Nashville",
+        "slogan": "The Volunteer State",
+        "bird": "Mockingbird",
+        "flower": "Iris",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Texas",
-        "abbreviation": "TX"
+        "abbreviation": "TX",
+        "statehood": "December 29, 1845",
+        "capital": "Austin",
+        "slogan": "The Lone Star State",
+        "bird": "Mockingbird",
+        "flower": "Bluebonnet",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Utah",
-        "abbreviation": "UT"
+        "abbreviation": "UT",
+        "statehood": "January 4, 1896",
+        "capital": "Salt Lake City",
+        "slogan": "The Beehive State",
+        "bird": "Ring-billed Gull",
+        "flower": "Sego lily",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Vermont",
-        "abbreviation": "VT"
+        "abbreviation": "VT",
+        "statehood": "March 4, 1791",
+        "capital": "Montpelier",
+        "slogan": "The Green Mountain State",
+        "bird": "Hermit Thrush",
+        "flower": "Red Clover",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Virginia",
-        "abbreviation": "VA"
+        "abbreviation": "VA",
+        "statehood": "June 25, 1788",
+        "capital": "Richmond",
+        "slogan": "The Old Dominion State",
+        "bird": "Cardinal",
+        "flower": "American Dogwood",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Washington",
-        "abbreviation": "WA"
+        "abbreviation": "WA",
+        "statehood": "November 11, 1889",
+        "capital": "Olympia",
+        "slogan": "The Evergreen State",
+        "bird": "Willow Goldfinch",
+        "flower": "Coast Rhododendron",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "West Virginia",
-        "abbreviation": "WV"
+        "abbreviation": "WV",
+        "statehood": "June 20, 1863",
+        "capital": "Charleston",
+        "slogan": "The Mountain State",
+        "bird": "Cardinal",
+        "flower": "Rhododendron",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Wisconsin",
-        "abbreviation": "WI"
+        "abbreviation": "WI",
+        "statehood": "May 29, 1848",
+        "capital": "Madison",
+        "slogan": "The Badger State",
+        "bird": "Robin",
+        "flower": "Wood Violet",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     },
     {
         "name": "Wyoming",
-        "abbreviation": "WY"
+        "abbreviation": "WY",
+        "statehood": "July 10, 1890",
+        "capital": "Cheyenne",
+        "slogan": "The Equality State or The Cowboy State",
+        "bird": "Western Meadowlark",
+        "flower": "Indian Paintbrush",
+        "birdImage": "",
+        "flowerImage": "",
+        "stateIcon": "",
+        "stateBackground": ""
     }
 ]
