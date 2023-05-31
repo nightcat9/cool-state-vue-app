@@ -7,10 +7,10 @@
         "slogan": "Yellowhammer State",
         "bird": "Yellowhammer",
         "flower": "Camellia",
-        "birdImage": "../assets/images/birds/yellowhammer.jpg",
-        "flowerImage": "../assets/images/flowers/camellia.jpg",
-        "stateIcon": "../assets/images/state-icons/Alabama.jpg",
-        "stateBackground": "../assets/images/state-background/alabama.jpg"
+        "birdImage": "yellowhammer.jpg",
+        "flowerImage": "camellia.jpg",
+        "stateIcon": "Alabama.jpg",
+        "stateBackground": "alabama.jpg"
     },
     {
         "name": "Alaska",
@@ -20,10 +20,10 @@
         "slogan": "The Last Frontier",
         "bird": "Willow Ptarmigan",
         "flower": "Alpine Forget Me Not",
-        "birdImage": "../assets/images/birds/willow-ptarmigan.jpg",
-        "flowerImage": "../assets/images/flowers/forget-me-not.jpg",
-        "stateIcon": "../assets/images/state-icons/Alaska.jpg",
-        "stateBackground": "../assets/images/state-background/alaska.jpg"
+        "birdImage": "willow-ptarmigan.jpg",
+        "flowerImage": "forget-me-not.jpg",
+        "stateIcon": "Alaska.jpg",
+        "stateBackground": "alaska.jpg"
     },
     {
         "name": "Arizona",
@@ -33,10 +33,10 @@
         "slogan": "The Grand Canyon State",
         "bird": "Cactus Wren",
         "flower": "Saguaro Cactus Blossom",
-        "birdImage": "../assets/images/birds/cactus-wren.jpg",
-        "flowerImage": "../assets/images/flowers/saguaro-blossom.jpg",
-        "stateIcon": "../assets/images/state-icons/Arizona.jpg",
-        "stateBackground": "../assets/images/state-background/arizona.jpg"
+        "birdImage": "cactus-wren.jpg",
+        "flowerImage": "saguaro-blossom.jpg",
+        "stateIcon": "Arizona.jpg",
+        "stateBackground": "arizona.jpg"
     },
     {
         "name": "Arkansas",
@@ -46,10 +46,10 @@
         "slogan": "The Natural State",
         "bird": "Northern Mockingbird",
         "flower": "Apple Blossom",
-        "birdImage": "../assets/images/birds/northern-mockingbird.jpg",
-        "flowerImage": "../assets/images/flowers/apple-blossom.jpg",
-        "stateIcon": "../assets/images/state-icons/Arkansas.jpg",
-        "stateBackground": "../assets/images/state-background/arkansas.jpg"
+        "birdImage": "northern-mockingbird.jpg",
+        "flowerImage": "apple-blossom.jpg",
+        "stateIcon": "Arkansas.jpg",
+        "stateBackground": "arkansas.jpg"
     },
     {
         "name": "California",
@@ -59,10 +59,10 @@
         "slogan": "The Golden State",
         "bird": "California Valley Quail",
         "flower": "California Poppy",
-        "birdImage": "../assets/images/birds/california-quail.jpg",
-        "flowerImage": "../assets/images/flowers/california-poppy.jpg",
-        "stateIcon": "../assets/images/state-icons/California.jpg",
-        "stateBackground": "../assets/images/state-background/california.jpg"
+        "birdImage": "california-quail.jpg",
+        "flowerImage": "california-poppy.jpg",
+        "stateIcon": "California.jpg",
+        "stateBackground": "california.jpg"
     },
     {
         "name": "Colorado",
@@ -72,10 +72,10 @@
         "slogan": "The Centennial State",
         "bird": "Lark Bunting",
         "flower": "Rocky Mountain Columbine",
-        "birdImage": "../assets/images/birds/lark-bunting.jpg",
-        "flowerImage": "../assets/images/flowers/rocky-mountain-columbine.jpg",
-        "stateIcon": "../assets/images/state-icons/Colorado.jpg",
-        "stateBackground": "../assets/images/state-background/colorado.jpg"
+        "birdImage": "lark-bunting.jpg",
+        "flowerImage": "rocky-mountain-columbine.jpg",
+        "stateIcon": "Colorado.jpg",
+        "stateBackground": "colorado.jpg"
     },
     {
         "name": "Connecticut",
@@ -83,12 +83,12 @@
         "statehood": "January 9, 1788",
         "capital": "Hartford",
         "slogan": "The Constitution State",
-        "bird": "American Robin",
+        "bird": "Robin",
         "flower": "Mountain Laurel",
-        "birdImage": "../assets/images/birds/american-robin.jpg",
-        "flowerImage": "../assets/images/flowers/mountain-laurel.jpg",
-        "stateIcon": "../assets/images/state-icons/Connecticut.jpg",
-        "stateBackground": "../assets/images/state-background/connecticut.jpg"
+        "birdImage": "american-robin.jpg",
+        "flowerImage": "mountain-laurel.jpg",
+        "stateIcon": "Connecticut.jpg",
+        "stateBackground": "connecticut.jpg"
     },
     {
         "name": "Delaware",
@@ -98,10 +98,10 @@
         "slogan": "The First State",
         "bird": "Delaware Blue Hen",
         "flower": "Peach Blossom",
-        "birdImage": "../assets/images/birds/delaware-blue-hen.jpg",
-        "flowerImage": "../assets/images/flowers/peach-blossom.jpg",
-        "stateIcon": "../assets/images/state-icons/Delaware.jpg",
-        "stateBackground": "../assets/images/state-background/delaware.jpg"
+        "birdImage": "delaware-blue-hen.jpg",
+        "flowerImage": "peach-blossom.jpg",
+        "stateIcon": "Delaware.jpg",
+        "stateBackground": "delaware.jpg"
     },
     {
         "name": "Florida",
@@ -111,10 +111,10 @@
         "slogan": "The Sunshine State",
         "bird": "Mockingbird",
         "flower": "Orange Blossom",
-        "birdImage": "../assets/images/birds/northern-mockingbird.jpg",
-        "flowerImage": "../assets/images/flowers/orange-blossom.jpg",
-        "stateIcon": "../assets/images/state-icons/Florida.jpg",
-        "stateBackground": "../assets/images/state-background/florida.jpg"
+        "birdImage": "northern-mockingbird.jpg",
+        "flowerImage": "orange-blossom.jpg",
+        "stateIcon": "Florida.jpg",
+        "stateBackground": "florida.jpg"
     },
     {
         "name": "Georgia",
@@ -124,10 +124,10 @@
         "slogan": "The Peach State",
         "bird": "Brown Thrasher",
         "flower": "Cherokee Rose",
-        "birdImage": "../assets/images/birds/brown-thrasher.jpg",
-        "flowerImage": "../assets/images/flowers/cherokee-rose.jpg",
-        "stateIcon": "../assets/images/state-icons/Georgia.jpg",
-        "stateBackground": "../assets/images/state-background/georgia.jpg"
+        "birdImage": "brown-thrasher.jpg",
+        "flowerImage": "cherokee-rose.jpg",
+        "stateIcon": "Georgia.jpg",
+        "stateBackground": "georgia.jpg"
     },
     {
         "name": "Hawaii",
@@ -137,10 +137,10 @@
         "slogan": "The Aloha State",
         "bird": "Hawaiian Goose",
         "flower": "Hawaiian Hibiscus",
-        "birdImage": "../assets/images/birds/hawaiian-goose.jpg",
-        "flowerImage": "../assets/images/flowers/hawaiian-hibiscus.jpg",
-        "stateIcon": "../assets/images/state-icons/Hawaii.jpg",
-        "stateBackground": "../assets/images/state-background/hawaii.jpg"
+        "birdImage": "hawaiian-goose.jpg",
+        "flowerImage": "hawaiian-hibiscus.jpg",
+        "stateIcon": "Hawaii.jpg",
+        "stateBackground": "hawaii.jpg"
     },
     {
         "name": "Idaho",
@@ -150,10 +150,10 @@
         "slogan": "The Gem State",
         "bird": "Mountain Bluebird",
         "flower": "Lewis' Mock Orange",
-        "birdImage": "../assets/images/birds/mountain-bluebird.jpg",
-        "flowerImage": "../assets/images/flowers/mock-orange.jpg",
-        "stateIcon": "../assets/images/state-icons/Idaho.jpg",
-        "stateBackground": "../assets/images/state-background/idaho.jpg"
+        "birdImage": "mountain-bluebird.jpg",
+        "flowerImage": "mock-orange.jpg",
+        "stateIcon": "Idaho.jpg",
+        "stateBackground": "idaho.jpg"
     },
     {
         "name": "Illinois",
@@ -163,10 +163,10 @@
         "slogan": "The Prairie State",
         "bird": "Cardinal",
         "flower": "Violet",
-        "birdImage": "../assets/images/birds/northern-cardinal.jpg",
-        "flowerImage": "../assets/images/flowers/violet.jpg",
-        "stateIcon": "../assets/images/state-icons/Illinois.jpg",
-        "stateBackground": "../assets/images/state-background/illinois.jpg"
+        "birdImage": "northern-cardinal.jpg",
+        "flowerImage": "violet.jpg",
+        "stateIcon": "Illinois.jpg",
+        "stateBackground": "illinois.jpg"
     },
     {
         "name": "Indiana",
@@ -176,10 +176,10 @@
         "slogan": "The Hoosier State",
         "bird": "Cardinal",
         "flower": "Peony",
-        "birdImage": "../assets/images/birds/northern-cardinal.jpg",
-        "flowerImage": "../assets/images/flowers/peony.jpg",
-        "stateIcon": "../assets/images/state-icons/Indiana.jpg",
-        "stateBackground": "../assets/images/state-background/indiana.jpg"
+        "birdImage": "northern-cardinal.jpg",
+        "flowerImage": "peony.jpg",
+        "stateIcon": "Indiana.jpg",
+        "stateBackground": "indiana.jpg"
     },
     {
         "name": "Iowa",
@@ -189,10 +189,10 @@
         "slogan": "The Hawkeye State",
         "bird": "Eastern Goldfinch",
         "flower": "Wild Prairie Rose",
-        "birdImage": "../assets/images/birds/goldfinch.jpg",
-        "flowerImage": "../assets/images/flowers/prairie-rose.jpg",
-        "stateIcon": "../assets/images/state-icons/Iowa.jpg",
-        "stateBackground": "../assets/images/state-background/iowa.jpg"
+        "birdImage": "goldfinch.jpg",
+        "flowerImage": "prairie-rose.jpg",
+        "stateIcon": "Iowa.jpg",
+        "stateBackground": "iowa.jpg"
     },
     {
         "name": "Kansas",
@@ -202,10 +202,10 @@
         "slogan": "The Sunflower State",
         "bird": "Western Meadowlark",
         "flower": "Sunflower",
-        "birdImage": "../assets/images/birds/western-meadowlark.jpg",
-        "flowerImage": "../assets/images/flowers/sunflower.jpg",
-        "stateIcon": "../assets/images/state-icons/Kansas.jpg",
-        "stateBackground": "../assets/images/state-background/kansas.jpg"
+        "birdImage": "western-meadowlark.jpg",
+        "flowerImage": "sunflower.jpg",
+        "stateIcon": "Kansas.jpg",
+        "stateBackground": "kansas.jpg"
     },
     {
         "name": "Kentucky",
@@ -215,10 +215,10 @@
         "slogan": "The Bluegrass State",
         "bird": "Cardinal",
         "flower": "Goldenrod",
-        "birdImage": "../assets/images/birds/northern-cardinal.jpg",
-        "flowerImage": "../assets/images/flowers/goldenrod.jpg",
-        "stateIcon": "../assets/images/state-icons/Kentucky.jpg",
-        "stateBackground": "../assets/images/state-background/kentucky.jpg"
+        "birdImage": "northern-cardinal.jpg",
+        "flowerImage": "goldenrod.jpg",
+        "stateIcon": "Kentucky.jpg",
+        "stateBackground": "kentucky.jpg"
     },
     {
         "name": "Louisiana",
@@ -228,10 +228,10 @@
         "slogan": "The Pelican State",
         "bird": "Eastern Brown Pelican",
         "flower": "Magnolia",
-        "birdImage": "../assets/images/birds/pelican.jpg",
-        "flowerImage": "../assets/images/flowers/magnolia.jpg",
-        "stateIcon": "../assets/images/state-icons/Louisiana.jpg",
-        "stateBackground": "../assets/images/state-background/louisiana.jpg"
+        "birdImage": "pelican.jpg",
+        "flowerImage": "magnolia.jpg",
+        "stateIcon": "Louisiana.jpg",
+        "stateBackground": "louisiana.jpg"
     },
     {
         "name": "Maine",
@@ -240,11 +240,11 @@
         "capital": "Augusta",
         "slogan": "The Pine Tree State",
         "bird": "Chickadee",
-        "flower": "White pine cone and tassel",
-        "birdImage": "../assets/images/birds/black-capped-chickadee.jpg",
-        "flowerImage": "../assets/images/flowers/white-pine.jpg",
-        "stateIcon": "../assets/images/state-icons/Maine.jpg",
-        "stateBackground": "../assets/images/state-background/maine.jpg"
+        "flower": "White Pine Cone and Tassel",
+        "birdImage": "black-capped-chickadee.jpg",
+        "flowerImage": "white-pine.jpg",
+        "stateIcon": "Maine.jpg",
+        "stateBackground": "maine.jpg"
     },
     {
         "name": "Maryland",
@@ -254,10 +254,10 @@
         "slogan": "The Old Line State",
         "bird": "Baltimore Oriole",
         "flower": "Black-eyed Susan",
-        "birdImage": "../assets/images/birds/baltimore-oriole.jpg",
-        "flowerImage": "../assets/images/flowers/black-eyed-susan.jpg",
-        "stateIcon": "../assets/images/state-icons/Maryland.jpg",
-        "stateBackground": "../assets/images/state-background/maryland.jpg"
+        "birdImage": "baltimore-oriole.jpg",
+        "flowerImage": "black-eyed-susan.jpg",
+        "stateIcon": "Maryland.jpg",
+        "stateBackground": "maryland.jpg"
     },
     {
         "name": "Massachusetts",
@@ -267,10 +267,10 @@
         "slogan": "The Bay State",
         "bird": "Chickadee",
         "flower": "Mayflower",
-        "birdImage": "../assets/images/birds/black-capped-chickadee.jpg",
-        "flowerImage": "../assets/images/flowers/mayflower.jpg",
-        "stateIcon": "../assets/images/state-icons/Massachusetts.jpg",
-        "stateBackground": "../assets/images/state-background/massachusetts.jpg"
+        "birdImage": "black-capped-chickadee.jpg",
+        "flowerImage": "mayflower.jpg",
+        "stateIcon": "Massachusetts.jpg",
+        "stateBackground": "massachusetts.jpg"
     },
     {
         "name": "Michigan",
@@ -280,10 +280,10 @@
         "slogan": "The Great Lakes State",
         "bird": "Robin",
         "flower": "Apple Blossom",
-        "birdImage": "../assets/images/birds/american-robin.jpg",
-        "flowerImage": "../assets/images/flowers/apple-blossom.jpg",
-        "stateIcon": "../assets/images/state-icons/Michigan.jpg",
-        "stateBackground": "../assets/images/state-background/michigan.jpg"
+        "birdImage": "american-robin.jpg",
+        "flowerImage": "apple-blossom.jpg",
+        "stateIcon": "Michigan.jpg",
+        "stateBackground": "michigan.jpg"
     },
     {
         "name": "Minnesota",
@@ -292,11 +292,11 @@
         "capital": "Saint Paul",
         "slogan": "The North Star State",
         "bird": "Common Loon",
-        "flower": "Pink and white lady slipper",
-        "birdImage": "../assets/images/birds/common-loon.jpg",
-        "flowerImage": "../assets/images/flowers/pink-white-ladys-slipper.jpg",
-        "stateIcon": "../assets/images/state-icons/Minnesota.jpg",
-        "stateBackground": "../assets/images/state-background/minnesota.jpg"
+        "flower": "Pink and White Lady Slipper",
+        "birdImage": "common-loon.jpg",
+        "flowerImage": "pink-white-ladys-slipper.jpg",
+        "stateIcon": "Minnesota.jpg",
+        "stateBackground": "minnesota.jpg"
     },
     {
         "name": "Mississippi",
@@ -306,10 +306,10 @@
         "slogan": "The Magnolia State",
         "bird": "Mockingbird",
         "flower": "Magnolia",
-        "birdImage": "../assets/images/birds/northern-mockingbird.jpg",
-        "flowerImage": "../assets/images/flowers/magnolia.jpg",
-        "stateIcon": "../assets/images/state-icons/Mississippi.jpg",
-        "stateBackground": "../assets/images/state-background/mississippi.jpg"
+        "birdImage": "northern-mockingbird.jpg",
+        "flowerImage": "magnolia.jpg",
+        "stateIcon": "Mississippi.jpg",
+        "stateBackground": "mississippi.jpg"
     },
     {
         "name": "Missouri",
@@ -319,10 +319,10 @@
         "slogan": "The Show Me State",
         "bird": "Bluebird",
         "flower": "White Hawthorn Blossom",
-        "birdImage": "../assets/images/birds/eastern-bluebird.jpg",
-        "flowerImage": "../assets/images/flowers/hawthorn.jpg",
-        "stateIcon": "../assets/images/state-icons/Missouri.jpg",
-        "stateBackground": "../assets/images/state-background/missouri.jpg"
+        "birdImage": "eastern-bluebird.jpg",
+        "flowerImage": "hawthorn.jpg",
+        "stateIcon": "Missouri.jpg",
+        "stateBackground": "missouri.jpg"
     },
     {
         "name": "Montana",
@@ -332,10 +332,10 @@
         "slogan": "The Treasure State",
         "bird": "Western Meadowlark",
         "flower": "Bitterroot",
-        "birdImage": "../assets/images/birds/western-meadowlark.jpg",
-        "flowerImage": "../assets/images/flowers/bitterroot.jpg",
-        "stateIcon": "../assets/images/state-icons/Montana.jpg",
-        "stateBackground": "../assets/images/state-background/montana.jpg"
+        "birdImage": "western-meadowlark.jpg",
+        "flowerImage": "bitterroot.jpg",
+        "stateIcon": "Montana.jpg",
+        "stateBackground": "montana.jpg"
     },
     {
         "name": "Nebraska",
@@ -345,10 +345,10 @@
         "slogan": "The Cornhusker State",
         "bird": "Western Meadowlark",
         "flower": "Goldenrod",
-        "birdImage": "../assets/images/birds/western-meadowlark.jpg",
-        "flowerImage": "../assets/images/flowers/goldenrod.jpg",
-        "stateIcon": "../assets/images/state-icons/Nebraska.jpg",
-        "stateBackground": "../assets/images/state-background/nebraska.jpg"
+        "birdImage": "western-meadowlark.jpg",
+        "flowerImage": "goldenrod.jpg",
+        "stateIcon": "Nebraska.jpg",
+        "stateBackground": "nebraska.jpg"
     },
     {
         "name": "Nevada",
@@ -358,10 +358,10 @@
         "slogan": "The Silver State",
         "bird": "Mountain Bluebird",
         "flower": "Sagebrush",
-        "birdImage": "../assets/images/birds/mountain-bluebird.jpg",
-        "flowerImage": "../assets/images/flowers/sagebrush.jpg",
-        "stateIcon": "../assets/images/state-icons/Nevada.jpg",
-        "stateBackground": "../assets/images/state-background/nevada.jpg"
+        "birdImage": "mountain-bluebird.jpg",
+        "flowerImage": "sagebrush.jpg",
+        "stateIcon": "Nevada.jpg",
+        "stateBackground": "nevada.jpg"
     },
     {
         "name": "New Hampshire",
@@ -371,10 +371,10 @@
         "slogan": "The Granite State",
         "bird": "Purple Finch",
         "flower": "Purple lilac",
-        "birdImage": "../assets/images/birds/purple-finch.jpg",
-        "flowerImage": "../assets/images/flowers/purple-lilac.jpg",
-        "stateIcon": "../assets/images/state-icons/New-Hampshire.jpg",
-        "stateBackground": "../assets/images/state-background/new-hampshire.jpg"
+        "birdImage": "purple-finch.jpg",
+        "flowerImage": "purple-lilac.jpg",
+        "stateIcon": "New-Hampshire.jpg",
+        "stateBackground": "new-hampshire.jpg"
     },
     {
         "name": "New Jersey",
@@ -384,10 +384,10 @@
         "slogan": "The Garden State",
         "bird": "Eastern Goldfinch",
         "flower": "Violet",
-        "birdImage": "../assets/images/birds/goldfinch.jpg",
-        "flowerImage": "../assets/images/flowers/violet.jpg",
-        "stateIcon": "../assets/images/state-icons/New-Jersey.jpg",
-        "stateBackground": "../assets/images/state-background/new-jersey.jpg"
+        "birdImage": "goldfinch.jpg",
+        "flowerImage": "violet.jpg",
+        "stateIcon": "New-Jersey.jpg",
+        "stateBackground": "new-jersey.jpg"
     },
     {
         "name": "New Mexico",
@@ -397,10 +397,10 @@
         "slogan": "The Land of Enchantment",
         "bird": "Roadrunner",
         "flower": "Yucca flower",
-        "birdImage": "../assets/images/birds/greater-roadrunner.jpg",
-        "flowerImage": "../assets/images/flowers/yucca.jpg",
-        "stateIcon": "../assets/images/state-icons/New-Mexico.jpg",
-        "stateBackground": "../assets/images/state-background/new-mexico.jpg"
+        "birdImage": "greater-roadrunner.jpg",
+        "flowerImage": "yucca.jpg",
+        "stateIcon": "New-Mexico.jpg",
+        "stateBackground": "new-mexico.jpg"
     },
     {
         "name": "New York",
@@ -410,10 +410,10 @@
         "slogan": "The Empire State",
         "bird": "Eastern Bluebird",
         "flower": "Rose",
-        "birdImage": "../assets/images/birds/eastern-bluebird.jpg",
-        "flowerImage": "../assets/images/flowers/rose.jpg",
-        "stateIcon": "../assets/images/state-icons/New-York.jpg",
-        "stateBackground": "../assets/images/state-background/new-york.jpg"
+        "birdImage": "eastern-bluebird.jpg",
+        "flowerImage": "rose.jpg",
+        "stateIcon": "New-York.jpg",
+        "stateBackground": "new-york.jpg"
     },
     {
         "name": "North Carolina",
@@ -423,10 +423,10 @@
         "slogan": "The Tar Heel State",
         "bird": "Cardinal",
         "flower": "American Dogwood",
-        "birdImage": "../assets/images/birds/northern-cardinal.jpg",
-        "flowerImage": "../assets/images/flowers/american-dogwood.jpg",
-        "stateIcon": "../assets/images/state-icons/North-Carolina.jpg",
-        "stateBackground": "../assets/images/state-background/north-carolina.jpg"
+        "birdImage": "northern-cardinal.jpg",
+        "flowerImage": "american-dogwood.jpg",
+        "stateIcon": "North-Carolina.jpg",
+        "stateBackground": "north-carolina.jpg"
     },
     {
         "name": "North Dakota",
@@ -436,10 +436,10 @@
         "slogan": "The Peace Garden State",
         "bird": "Western Meadowlark",
         "flower": "Wild Prairie Rose",
-        "birdImage": "../assets/images/birds/western-meadowlark.jpg",
-        "flowerImage": "../assets/images/flowers/prairie-rose.jpg",
-        "stateIcon": "../assets/images/state-icons/North-Dakota.jpg",
-        "stateBackground": "../assets/images/state-background/north-dakota.jpg"
+        "birdImage": "western-meadowlark.jpg",
+        "flowerImage": "prairie-rose.jpg",
+        "stateIcon": "North-Dakota.jpg",
+        "stateBackground": "north-dakota.jpg"
     },
     {
         "name": "Ohio",
@@ -449,10 +449,10 @@
         "slogan": "The Buckeye State",
         "bird": "Cardinal",
         "flower": "Scarlet Carnation",
-        "birdImage": "../assets/images/birds/northern-cardinal.jpg",
-        "flowerImage": "../assets/images/flowers/scarlet-carnation.jpg",
-        "stateIcon": "../assets/images/state-icons/Ohio.jpg",
-        "stateBackground": "../assets/images/state-background/ohio.jpg"
+        "birdImage": "northern-cardinal.jpg",
+        "flowerImage": "scarlet-carnation.jpg",
+        "stateIcon": "Ohio.jpg",
+        "stateBackground": "ohio.jpg"
     },
     {
         "name": "Oklahoma",
@@ -462,10 +462,10 @@
         "slogan": "The Sooner State",
         "bird": "Scissor-tailed Flycatcher",
         "flower": "Oklahoma Rose",
-        "birdImage": "../assets/images/birds/scissor-tailed-flycatcher.jpg",
-        "flowerImage": "../assets/images/flowers/oklahoma-rose.jpg",
-        "stateIcon": "../assets/images/state-icons/Oklahoma.jpg",
-        "stateBackground": "../assets/images/state-background/oklahoma.jpg"
+        "birdImage": "scissor-tailed-flycatcher.jpg",
+        "flowerImage": "oklahoma-rose.jpg",
+        "stateIcon": "Oklahoma.jpg",
+        "stateBackground": "oklahoma.jpg"
     },
     {
         "name": "Oregon",
@@ -475,10 +475,10 @@
         "slogan": "The Beaver State",
         "bird": "Western Meadowlark",
         "flower": "Oregon Grape",
-        "birdImage": "../assets/images/birds/western-meadowlark.jpg",
-        "flowerImage": "../assets/images/flowers/oregon-grape.jpg",
-        "stateIcon": "../assets/images/state-icons/Oregon.jpg",
-        "stateBackground": "../assets/images/state-background/oregon.jpg"
+        "birdImage": "western-meadowlark.jpg",
+        "flowerImage": "oregon-grape.jpg",
+        "stateIcon": "Oregon.jpg",
+        "stateBackground": "oregon.jpg"
     },
     {
         "name": "Pennsylvania",
@@ -488,10 +488,10 @@
         "slogan": "The Keystone State",
         "bird": "Ruffed Grouse",
         "flower": "Mountain Laurel",
-        "birdImage": "../assets/images/birds/ruffed-grouse.jpg",
-        "flowerImage": "../assets/images/flowers/mountain-laurel.jpg",
-        "stateIcon": "../assets/images/state-icons/Pennsylvania.jpg",
-        "stateBackground": "../assets/images/state-background/pennsylvania.jpg"
+        "birdImage": "ruffed-grouse.jpg",
+        "flowerImage": "mountain-laurel.jpg",
+        "stateIcon": "Pennsylvania.jpg",
+        "stateBackground": "pennsylvania.jpg"
     },
     {
         "name": "Rhode Island",
@@ -501,10 +501,10 @@
         "slogan": "The Ocean State",
         "bird": "Rhode Island Red Hen",
         "flower": "Common Blue Violet",
-        "birdImage": "../assets/images/birds/rhode-island-red.jpg",
-        "flowerImage": "../assets/images/flowers/violet.jpg",
-        "stateIcon": "../assets/images/state-icons/Rhode-Island.jpg",
-        "stateBackground": "../assets/images/state-background/rhode-island.jpg"
+        "birdImage": "rhode-island-red.jpg",
+        "flowerImage": "violet.jpg",
+        "stateIcon": "Rhode-Island.jpg",
+        "stateBackground": "rhode-island.jpg"
     },
     {
         "name": "South Carolina",
@@ -514,10 +514,10 @@
         "slogan": "The Palmetto State",
         "bird": "Carolina Wren",
         "flower": "Yellow Jessamine",
-        "birdImage": "../assets/images/birds/carolina-wren.jpg",
-        "flowerImage": "../assets/images/flowers/yellow-jessamine.jpg",
-        "stateIcon": "../assets/images/state-icons/South-Carolina.jpg",
-        "stateBackground": "../assets/images/state-background/south-carolina.jpg"
+        "birdImage": "carolina-wren.jpg",
+        "flowerImage": "yellow-jessamine.jpg",
+        "stateIcon": "South-Carolina.jpg",
+        "stateBackground": "south-carolina.jpg"
     },
     {
         "name": "South Dakota",
@@ -527,10 +527,10 @@
         "slogan": "Mount Rushmore State",
         "bird": "Ring-necked Pheasant",
         "flower": "Americana Pasque",
-        "birdImage": "../assets/images/birds/ring-necked-pheasant.jpg",
-        "flowerImage": "../assets/images/flowers/pasque-flower.jpg",
-        "stateIcon": "../assets/images/state-icons/South-Dakota.jpg",
-        "stateBackground": "../assets/images/state-background/south-dakota.jpg"
+        "birdImage": "ring-necked-pheasant.jpg",
+        "flowerImage": "pasque-flower.jpg",
+        "stateIcon": "South-Dakota.jpg",
+        "stateBackground": "south-dakota.jpg"
     },
     {
         "name": "Tennessee",
@@ -540,10 +540,10 @@
         "slogan": "The Volunteer State",
         "bird": "Mockingbird",
         "flower": "Iris",
-        "birdImage": "../assets/images/birds/northern-mockingbird.jpg",
-        "flowerImage": "../assets/images/flowers/iris.jpg",
-        "stateIcon": "../assets/images/state-icons/Tennessee.jpg",
-        "stateBackground": "../assets/images/state-background/tennessee.jpg"
+        "birdImage": "northern-mockingbird.jpg",
+        "flowerImage": "iris.jpg",
+        "stateIcon": "Tennessee.jpg",
+        "stateBackground": "tennessee.jpg"
     },
     {
         "name": "Texas",
@@ -553,10 +553,10 @@
         "slogan": "The Lone Star State",
         "bird": "Mockingbird",
         "flower": "Bluebonnet",
-        "birdImage": "../assets/images/birds/northern-mockingbird.jpg",
-        "flowerImage": "../assets/images/flowers/bluebonnet.jpg",
-        "stateIcon": "../assets/images/state-icons/Texas.jpg",
-        "stateBackground": "../assets/images/state-background/texas.jpg"
+        "birdImage": "northern-mockingbird.jpg",
+        "flowerImage": "bluebonnet.jpg",
+        "stateIcon": "Texas.jpg",
+        "stateBackground": "texas.jpg"
     },
     {
         "name": "Utah",
@@ -566,10 +566,10 @@
         "slogan": "The Beehive State",
         "bird": "Ring-billed Gull",
         "flower": "Sego Lily",
-        "birdImage": "../assets/images/birds/california-gull.jpg",
-        "flowerImage": "../assets/images/flowers/sego-lily.jpg",
-        "stateIcon": "../assets/images/state-icons/Utah.jpg",
-        "stateBackground": "../assets/images/state-background/utah.jpg"
+        "birdImage": "california-gull.jpg",
+        "flowerImage": "sego-lily.jpg",
+        "stateIcon": "Utah.jpg",
+        "stateBackground": "utah.jpg"
     },
     {
         "name": "Vermont",
@@ -579,10 +579,10 @@
         "slogan": "The Green Mountain State",
         "bird": "Hermit Thrush",
         "flower": "Red Clover",
-        "birdImage": "../assets/images/birds/hermit-thrush.jpg",
-        "flowerImage": "../assets/images/flowers/red-clover.jpg",
-        "stateIcon": "../assets/images/state-icons/Vermont.jpg",
-        "stateBackground": "../assets/images/state-background/vermont.jpg"
+        "birdImage": "hermit-thrush.jpg",
+        "flowerImage": "red-clover.jpg",
+        "stateIcon": "Vermont.jpg",
+        "stateBackground": "vermont.jpg"
     },
     {
         "name": "Virginia",
@@ -592,10 +592,10 @@
         "slogan": "The Old Dominion State",
         "bird": "Cardinal",
         "flower": "American Dogwood",
-        "birdImage": "../assets/images/birds/northern-cardinal.jpg",
-        "flowerImage": "../assets/images/flowers/american-dogwood.jpg",
-        "stateIcon": "../assets/images/state-icons/Virginia.jpg",
-        "stateBackground": "../assets/images/state-background/virginia.jpg"
+        "birdImage": "northern-cardinal.jpg",
+        "flowerImage": "american-dogwood.jpg",
+        "stateIcon": "Virginia.jpg",
+        "stateBackground": "virginia.jpg"
     },
     {
         "name": "Washington",
@@ -605,10 +605,10 @@
         "slogan": "The Evergreen State",
         "bird": "Willow Goldfinch",
         "flower": "Coast Rhododendron",
-        "birdImage": "../assets/images/birds/goldfinch.jpg",
-        "flowerImage": "../assets/images/flowers/coast-rhododendron.jpg",
-        "stateIcon": "../assets/images/state-icons/Washington.jpg",
-        "stateBackground": "../assets/images/state-background/washington.jpg"
+        "birdImage": "goldfinch.jpg",
+        "flowerImage": "coast-rhododendron.jpg",
+        "stateIcon": "Washington.jpg",
+        "stateBackground": "washington.jpg"
     },
     {
         "name": "West Virginia",
@@ -618,10 +618,10 @@
         "slogan": "The Mountain State",
         "bird": "Cardinal",
         "flower": "Rhododendron",
-        "birdImage": "../assets/images/birds/northern-cardinal.jpg",
-        "flowerImage": "../assets/images/flowers/rhododendron.jpg",
-        "stateIcon": "../assets/images/state-icons/West-Virginia.jpg",
-        "stateBackground": "../assets/images/state-background/west-virginia.jpg"
+        "birdImage": "northern-cardinal.jpg",
+        "flowerImage": "rhododendron.jpg",
+        "stateIcon": "West-Virginia.jpg",
+        "stateBackground": "west-virginia.jpg"
     },
     {
         "name": "Wisconsin",
@@ -631,10 +631,10 @@
         "slogan": "The Badger State",
         "bird": "Robin",
         "flower": "Wood Violet",
-        "birdImage": "../assets/images/birds/american-robin.jpg",
-        "flowerImage": "../assets/images/flowers/wood-violet.jpg",
-        "stateIcon": "../assets/images/state-icons/Wisconsin.jpg",
-        "stateBackground": "../assets/images/state-background/wisconsin.jpg"
+        "birdImage": "american-robin.jpg",
+        "flowerImage": "wood-violet.jpg",
+        "stateIcon": "Wisconsin.jpg",
+        "stateBackground": "wisconsin.jpg"
     },
     {
         "name": "Wyoming",
@@ -644,9 +644,9 @@
         "slogan": "The Equality State or The Cowboy State",
         "bird": "Western Meadowlark",
         "flower": "Indian Paintbrush",
-        "birdImage": "../assets/images/birds/western-meadowlark.jpg",
-        "flowerImage": "../assets/images/flowers/indian-paintbrush.jpg",
-        "stateIcon": "../assets/images/state-icons/Wyoming.jpg",
-        "stateBackground": "../assets/images/state-background/wyoming.jpg"
+        "birdImage": "western-meadowlark.jpg",
+        "flowerImage": "indian-paintbrush.jpg",
+        "stateIcon": "Wyoming.jpg",
+        "stateBackground": "wyoming.jpg"
     }
 ]

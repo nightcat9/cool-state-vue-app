@@ -1,5 +1,5 @@
 <template>
-    <div class="home">
+    <div class="flowers">
         This is Flower table
     </div>
 </template>
