@@ -1,5 +1,6 @@
 <template>
-    <table id="states">
+    <StateSearch />
+    <!--<table id="states">
         <tr>
             <th>State</th>
             <th>Capital</th>
@@ -12,14 +13,17 @@
             <td>{{ state.bird }}</td>
             <td>{{ state.flower }}</td>
         </tr>
-    </table>
+    </table>-->
 </template>
   
 <script>
+import StateSearch from '@/components/StateSearch.vue';
 import json from '../../states.json'
 export default {
     name: 'StateListView',
-    components: {},
+    components: {
+        StateSearch
+    },
     data() {
         return {
             statesJson: json
@@ -27,32 +31,3 @@ export default {
     }
 }
 </script>
-
-<style>
-#states {
-    font-family: Arial, Helvetica, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
-}
-
-#states td,
-#states th {
-    border: 1px solid #ddd;
-    padding: 8px;
-    text-align: left;
-}
-
-#states tr:nth-child(even) {
-    background-color: #f2f2f2;
-}
-
-#states tr:hover {
-    background-color: #ddd;
-}
-
-#states th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    background-color: #005377;
-    color: white;
-}</style>
