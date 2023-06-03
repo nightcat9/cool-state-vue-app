@@ -1,7 +1,8 @@
 <template>
-    {{ thisBirdStates[0].bird }}
-    <img :src='require(`../assets/images/birds/${thisBirdStates[0].birdImage}`)' :alt="this.thisBirdStates[0].bird" style="width:50%">
+    <h1>{{ thisBirdStates[0].bird }}</h1>
+    <img :src='require(`../assets/images/birds/${thisBirdStates[0].birdImage}`)' :alt="this.thisBirdStates[0].bird" style="width:30%">
     <div>
+        <h2>States</h2>
         <div v-for="state in thisBirdStates">
             <router-link :to="'/states/' + state.abbreviation">{{ state.name }}</router-link>
         </div>
