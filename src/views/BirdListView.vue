@@ -1,35 +1,19 @@
 <template>
-    <table id="birds">
-        <tr>
-            <th>Bird Name</th>
-            <th>Bird Images</th>
-        </tr>
-        <tr v-for="bird in birdsJson">
-            <td><router-link :to="'/birds/' + bird.name">{{ bird.name }}</router-link></td>
-            <td>
-                <img :src='require(`../assets/images/birds/${bird.birdImage}`)' :alt="bird.name" style="width:50%">
-            </td>
-        </tr>
-    </table>
+    <h1>State Birds</h1>
+<BirdSearch />
 </template>
   
 <script>
+import BirdSearch from '@/components/BirdSearch.vue';
 import json from '../../states.json'
+
 export default {
     name: 'BirdListView',
-    components: {},
-    data() {
-        const temp = json.map(state => ({ name: state.bird, birdImage: state.birdImage })).sort((a, b) => (a.name > b.name) ? 1 : -1)
-        const birdsArray = [...temp.reduce((a, c) => {
-            a.set(c.name, c);
-            return a;
-        }, new Map()).values()];
-
-        return {
-            birdsJson: birdsArray
-        }
+    components: {
+        BirdSearch
     }
 }
+
 </script>
 
 <style>
