@@ -10,7 +10,7 @@
         <tr v-for="bird in searchFunction" :key="bird">
             <td><router-link :to="'/birds/' + bird.name">{{ bird.name }}</router-link></td>
             <td>
-                <img :src='require(`../assets/images/birds/${bird.birdImage}`)' :alt="bird.name" style="width:50%">
+                <img :src='require(`../assets/images/birds/${bird.birdImage}`)' :alt="bird.name" style="width:30%">
             </td>
         </tr>
     </table>
