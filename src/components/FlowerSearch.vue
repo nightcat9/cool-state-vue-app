@@ -1,6 +1,6 @@
 <template>
     <input type="search" v-model="search" placeholder="Search for a state" />
-    <table id="stateSearch">
+    <table id="flowerSearch">
         <tr>
             <th>State</th>
             <th>Capital</th>
